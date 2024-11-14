@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Awareness</title>
+    
+    <style>
+       /* Importing Poppins Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    overflow: scroll;
+    color: #e0e0e0;
+    background: radial-gradient(circle at center, #1a1a2e, #0f0f1e 60%, #05050d);
+    background-size: cover;
+    position: relative;
+}
+
+/* Cyber-themed floating 3D objects */
+@keyframes floatAcross {
+    0% { transform: translate(-50%, -50%) translateX(-10px) translateY(-10px) rotate(0deg); }
+    50% { transform: translate(-50%, -50%) translateX(10px) translateY(10px) rotate(180deg); }
+    100% { transform: translate(-50%, -50%) translateX(-10px) translateY(-10px) rotate(360deg); }
+}
+
+/* Multiple floating 3D shapes */
+body::before, body::after, .floating-obj {
+    content: '';
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    pointer-events: none;
+    filter: blur(15px);
+    animation: floatAcross 20s linear infinite;
+}
+
+body::before {
+    top: 10%;
+    left: 20%;
+    background: rgba(255, 255, 255, 0.2);
+    animation-duration: 18s;
+}
+
+body::after {
+    top: 80%;
+    left: 30%;
+    background: rgba(52, 152, 219, 0.3);
+    animation-duration: 15s;
+}
+
+/* Additional floating objects */
+.floating-obj:nth-child(1) {
+    top: 20%;
+    left: 80%;
+    width: 80px;
+    height: 80px;
+    background: rgba(46, 204, 113, 0.3);
+    animation-duration: 25s;
+}
+
+.floating-obj:nth-child(2) {
+    top: 50%;
+    left: 15%;
+    width: 120px;
+    height: 120px;
+    background: rgba(231, 76, 60, 0.2);
+    animation-duration: 22s;
+}
+
+.floating-obj:nth-child(3) {
+    top: 70%;
+    left: 90%;
+    width: 90px;
+    height: 90px;
+    background: rgba(155, 89, 182, 0.3);
+    animation-duration: 28s;
+}
+
+.floating-obj:nth-child(4) {
+    top: 35%;
+    left: 40%;
+    width: 110px;
+    height: 110px;
+    background: rgba(241, 196, 15, 0.2);
+    animation-duration: 30s;
+}
+
+/* Navigation Bar */
+nav {
+    background: rgba(45, 45, 58, 0.5);
+    color: #fff;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1200px;
+    animation: cyber-glow 5s ease-in-out infinite;
+}
+
+        /* List Styling for Better Alignment */
+        .container ul {
+            list-style-position: inside;
+            padding-left: 1.5em;
+            text-align: left;
+        }
+
+        .container ul li {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+/* Enhanced Glowing Effect */
+@keyframes cyber-glow {
+    0%, 100% { filter: hue-rotate(0deg); }
+    50% { filter: hue-rotate(180deg) brightness(1.1); }
+}
+
+/* Glassmorphic Container */
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    text-align: center;
+    color: #fff;
+    animation: fadeIn 1.2s ease;
+    position: relative;
+}
+    </style>
+</head>
+<body>
+    <nav>
+        <h1>URL Safety Check</h1>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/learn">Learn About Phishing</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h1>Phishing Awareness</h1>
+
+        <h2>What is Phishing?</h2>
+        <p>Phishing is a type of cyber attack that aims to trick individuals into providing sensitive information such as usernames, passwords, and credit card details by masquerading as a trustworthy entity in electronic communications.</p>
+
+        <h2>Common Types of Phishing Attacks</h2>
+        <ul>
+            <li><strong>Email Phishing:</strong> Fraudulent emails that appear to be from legitimate sources.</li>
+            <li><strong>Spear Phishing:</strong> Targeted attacks aimed at specific individuals or organizations.</li>
+            <li><strong>Whaling:</strong> A type of spear phishing that targets high-profile individuals like executives.</li>
+            <li><strong>Smishing:</strong> Phishing attempts via SMS messages.</li>
+            <li><strong>Vishing:</strong> Voice phishing through phone calls.</li>
+        </ul>
+
+        <h2>Tips to Avoid Phishing Scams</h2>
+        <ul>
+            <li>Always verify the sender's email address before clicking on links or downloading attachments.</li>
+            <li>Look for spelling and grammatical errors in emails; legitimate companies usually proofread their communications.</li>
+            <li>Avoid clicking on links in unsolicited emails; instead, visit the website directly by typing the URL into your browser.</li>
+            <li>Enable two-factor authentication (2FA) on your accounts for an extra layer of security.</li>
+            <li>Keep your software and antivirus programs up to date to protect against malware.</li>
+        </ul>
+
+        <h2>Resources for Further Learning</h2>
+        <ul>
+            <li><a href="https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams" target="_blank">FTC - How to Recognize and Avoid Phishing Scams</a></li>
+            <li><a href="https://www.phishing.org/" target="_blank">Phishing.org - Awareness and Prevention</a></li>
+            <li><a href="https://www.cyber.gov.au/acsc/view-all-content/advice/what-phishing" target="_blank">Australian Cyber Security Centre - What is Phishing?</a></li>
+        </ul>
+
+    </div>
+
+</body>
+</html>

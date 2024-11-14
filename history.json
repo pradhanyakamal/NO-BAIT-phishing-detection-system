@@ -1,0 +1,712 @@
+[
+  {
+    "url": "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/lecture/Y9KXn/kubernetes-architecture",
+    "prediction": " not safe",
+    "feedback": "wrong"
+  },
+  {
+    "url": "https://www.udemy.com/home/my-courses/learning/",
+    "prediction": " not safe",
+    "feedback": "wrong"
+  },
+  {
+    "url": "https://www.udemy.com/home/my-courses/learning/",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://chatgpt.com/c/6734a633-26d8-8011-ac5c-db44605bcabf",
+    "prediction": " not safe",
+    "feedback": "wrong"
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": "right"
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com/!@#$%^&*()",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://sub.example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com/!@#$%^&*()",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://sub.example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "invalid-url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://192.168.0.1",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://[2001:db8::1]",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://localhost",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "ftp://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com/!@#$%^&*()",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://sub.example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com/path?query=param",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://x.co",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "invalid_url",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://malicious-site.com",
+    "prediction": "phishing",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "http://example.com:8080",
+    "prediction": " not safe",
+    "feedback": ""
+  },
+  {
+    "url": "https://docs.google.com/document/d/1dmyGL2es8Ogxo-S5M88WSZAOgsenCJhrPuPvIQjdoAg/edit?tab=t.0",
+    "prediction": "legitimate",
+    "feedback": ""
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "legitimate",
+    "feedback": ""
+  }
+]
